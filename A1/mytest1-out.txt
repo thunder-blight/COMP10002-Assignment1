@@ -1,0 +1,16 @@
+argv[1]: fee
+argv[2]: fi
+argv[3]: fo
+argv[4]: fum
+
+  0: Programming is fun and functions are fun.
+  1: A function can also offer a reception or an event or a protocol.
+  2: When funny things are provided we are supposed laugh our heads off.
+  3: But programming also sometimes makes us frightened.
+  4: And crying involves tears and perhaps even sobbing.
+  5: We should probably protest forcefully when that happens.
+  6: But in the final analysis...
+  7: Ha ha! The joke is on you!! Because, wait for it, here it comes:
+  8: Functions are often full of useful funny!
+
+tadaa!

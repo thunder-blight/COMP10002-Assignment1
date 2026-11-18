@@ -1,0 +1,39 @@
+
+Stage 1
+-------
+average line = 35.63 characters
+line   0:
+-> %% Author: Alistair Moffat, ammoffat@unimelb.edu.au
+-> length =  51
+line 366:
+-> \end{document}
+-> length =  14
+
+Stage 2
+-------
+line   0:
+-> %% Author: Alistair Moffat, ammoffat@unimelb.edu.au
+-> score =   9
+line 366:
+-> \end{document}
+-> score =   0
+
+Stage 3
+-------
+line 129:
+->     -> Programming is fun and functions are fun.
+-> score = 1049
+line 216:
+->     -> Programming is fun and functions are fun.
+-> score = 1049
+line 242:
+->     -> Programming is fun and functions are fun.
+-> score = 1049
+line 284:
+-> at programming than others is the ability to see a design path
+-> score = 1031
+line 285:
+-> through simple programs, to more comprehensive programs, to final
+-> score = 262
+
+tadaa!

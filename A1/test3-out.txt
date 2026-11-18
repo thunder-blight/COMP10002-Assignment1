@@ -1,0 +1,39 @@
+
+Stage 1
+-------
+average line = 36.94 characters
+line   0:
+-> %% Author: Alistair Moffat, ammoffat@unimelb.edu.au
+-> length =  51
+line 739:
+-> %% \end{document}
+-> length =  17
+
+Stage 2
+-------
+line   0:
+-> %% Author: Alistair Moffat, ammoffat@unimelb.edu.au
+-> score =  41
+line 739:
+-> %% \end{document}
+-> score =   1
+
+Stage 3
+-------
+line 365:
+-> Prepared by Alistair Moffat, ammoffat@unimelb.edu.au.}}
+-> score =  45
+line 738:
+-> %% Prepared by Alistair Moffat, ammoffat@unimelb.edu.au.}}
+-> score =  45
+line  62:
+-> find references to ``{\cmp{Alistair Moffat}}'' and ``{\cmp{Alastair
+-> score =  42
+line 435:
+-> %% find references to ``{\cmp{Alistair Moffat}}'' and ``{\cmp{Alastair
+-> score =  42
+line   0:
+-> %% Author: Alistair Moffat, ammoffat@unimelb.edu.au
+-> score =  41
+
+tadaa!
